@@ -1,0 +1,21 @@
+IG_UI_FR = {
+    IGUI_VehicleName75grandPrixSJ = "'75 Pontiac Grand Prix SJ",
+    IGUI_VehicleName75grandPrixLJ = "'75 Pontiac Grand Prix LJ",
+    IGUI_VehicleName75grandPrixHurst = "'75 Pontiac Grand Prix Hurst Special",
+
+    IGUI_VehiclePartPRX75BumperFront = "Pare-chocs avant",
+    IGUI_VehiclePartPRX75BumperRear = "Pare-chocs arrière",
+    IGUI_VehiclePartPRX75SpareTire = "Pneu de secours",
+
+    IGUI_VehiclePartPRX75WindshieldArmor = "Protection de pare-brise",
+    IGUI_VehiclePartPRX75WindshieldRearArmor = "Protection de pare-brise arrière",
+    IGUI_VehiclePartPRX75FrontLeftArmor = "Protection de vitre avant gauche",
+    IGUI_VehiclePartPRX75FrontRightArmor = "Protection de vitre avant droite",
+    IGUI_VehiclePartPRX75RearLeftArmor = "Protection de vitre arrière gauche",
+    IGUI_VehiclePartPRX75RearRightArmor = "Protection de vitre arrière droite",
+
+    IGUI_VehiclePartPRX75Trunk = "Coffre de rangement",
+    IGUI_VehiclePartPRX75Roofrack = "Porte-bagages",
+    IGUI_VehiclePartPRX75CenterConsole = "Console centrale",
+    IGUI_VehiclePartPRX75CordovaTop = "Cordova Top",
+}
